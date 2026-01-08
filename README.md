@@ -16,8 +16,8 @@ I'm an 18 y/o developer from the UK.
 
 ### 🔗 Connect with me:
 
-[<img align="left" alt="Salty-Coder | Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
-[<img align="left" alt="Salty-Coder | Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />][discord]
+[<img align="left" alt="bns34 | Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
+[<img align="left" alt="bns34 | Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />][discord]
 <br><br>
 ### 📚 Languages I know and use
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -62,45 +62,19 @@ I'm an 18 y/o developer from the UK.
 
 
 
-<img src="https://raw.githubusercontent.com/Salty-Coder/profile-metrics/main/github-metrics.svg" alt="Profile Metrics">
+<img src="https://raw.githubusercontent.com/bns34/profile-metrics/main/github-metrics.svg" alt="Profile Metrics">
 
 <br />
 <br />
 <br />
-
-<!--
-  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Salty-Coder&show_icons=true&theme=tokyonight"/>
-</p>
-
 
 
 <div align="center">
-
-  <a>
-    <img src="https://raw.githubusercontent.com/Salty-Coder/github-stats-transparent/output/generated/overview.svg"/>
-  </a>
-  <a>
-    <img src="https://raw.githubusercontent.com/Salty-Coder/github-stats-transparent/output/generated/languages.svg"/>
-  </a>
-  
-</div>
-
-
--->
-
-
-<div align="center">
-<h2>📬 Want to get in touch? <br/></h2>
-  <p>You can contact me by email by <a href="mailto:saltyspamzyt@gmail.com"> clicking here</a><br><br>
-    <img src="https://komarev.com/ghpvc/?username=Salty-Coder&style=flat&color=red" img/></p>
+  <h2>📬 Want to get in touch? <br/></h2>
+  <p>You can contact me by email by <a href="mailto:bns34dev@gmail.com"> clicking here</a>
 </div>
 
 
 
-[email]: mailto:saltyspamzyt@gmail.com
-[twitter]: https://twitter.com/saltyspamz
-[youtube]: https://youtube.com/SaltySpamz
-[instagram]: https://instagram.com/saltyspamzyt
+[email]: mailto:bns34dev@gmail.com
 [discord]: https://discordapp.com/users/409250840571019264/
